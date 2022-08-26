@@ -21,4 +21,4 @@ Se deseja colaborar com alguma indicação, por favor enviar um email para gusta
 
 
 ---
-⌨️ com ❤️ por [Gustavo Gomes](https://gist.github.com/lohhans) 😊
+⌨️ com ❤️ por [Gustavo Gomes](https://gist.github.com/gustamdz) 😊
